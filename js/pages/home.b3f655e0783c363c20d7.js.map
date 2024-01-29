@@ -1,0 +1,1 @@
+{"version":3,"file":"js/pages/home.b3f655e0783c363c20d7.js","mappings":"+LAEA,SAASA,GAAO,CACZ,OAAO,kCACX,CAEA,QAAeA,C","sources":["webpack://webpack-react-typescript-template/./src/pages/Home.tsx"],"sourcesContent":["import React from 'react';\r\n\r\nfunction Home() {\r\n    return <div>Home</div>;\r\n}\r\n\r\nexport default Home;\r\n"],"names":["Home"],"sourceRoot":""}

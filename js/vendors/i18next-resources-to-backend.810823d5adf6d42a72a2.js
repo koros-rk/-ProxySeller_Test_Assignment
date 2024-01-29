@@ -1,0 +1,3 @@
+"use strict";(self.webpackChunkwebpack_react_typescript_template=self.webpackChunkwebpack_react_typescript_template||[]).push([[794],{16:(r,c,i)=>{i.d(c,{Z:()=>u});var p=function(e){return{type:"backend",init:function(t,n,_){},read:function(t,n,_){if(typeof e=="function"){e(t,n,_);return}_(null,e&&e[t]&&e[t][n])}}};const u=p}}]);
+
+//# sourceMappingURL=i18next-resources-to-backend.810823d5adf6d42a72a2.js.map
